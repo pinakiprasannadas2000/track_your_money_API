@@ -2,7 +2,7 @@
 This is a back-end REST API for tracking all incomes and expenses of a day and month. 
 
 It contains a bunch of routes such as,
-  1) Available user routes are for
+  1) Available user routes are, 
     i. Create account (User signup)
     ii. Login (User signin)
     iii. Logout
@@ -11,7 +11,7 @@ It contains a bunch of routes such as,
     vi. Update profile
     vii. Delete profile/Delete account
     
-  2) Available income routes are
+  2) Available income routes are, 
     i. Create a income
     ii. Get incomes (all incomes, incomes of a particular date, incomes of a particular month)
     iii. Get a particular income through "_id"
@@ -19,7 +19,7 @@ It contains a bunch of routes such as,
     v. Delete incomes
     vi. Delete a particular income through "_id"
     
-  3) Available expense routes are
+  3) Available expense routes are, 
     i. Create a expense
     ii. Get expenses (all expenses, expenses of a particular date, expenses of a particular month)
     iii. Get a particular expense through "_id"
@@ -27,5 +27,5 @@ It contains a bunch of routes such as,
     v. Delete expenses
     vi. Delete a particular expense through "_id"
     
-  4) Available total routes are
+  4) Available total routes are, 
     i. Get total (total of all the entries, total of a date, total of a month)
